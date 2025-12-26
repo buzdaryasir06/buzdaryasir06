@@ -1,23 +1,92 @@
-## Hi there 👋 
-# 💫 About Me:
-🚀 About Me<br><br>I'm a passionate Full-Stack Developer and AI enthusiast currently diving deep into Python. I love building responsive web applications and exploring how AI can enhance development workflows.<br><br>💻 Tech Stack & Interests<br><br>🔭 Currently Working With:<br>- Frontend: HTML, CSS, JavaScript, React<br>- Backend: Python<br>- Tools: Git, VS Code, Jupyter Notebook<br><br>🌱 Currently Learning:<br>- Machine Learning & Deep Learning<br>- AI Model Development<br>- Advanced Python for Data Science<br><br>👯 Looking to Collaborate On:<br>- Full-stack web development projects<br>- Python-based applications<br>- AI/ML integration in web apps<br><br>📫 Let's Discuss:<br>- Web Development (Frontend & Backend)<br>- JavaScript & React.js<br>- Python programming<br>- AI/Machine Learning projects<br><br>⚡ Fun Fact<br>I'm training ML models to detect bugs in my code - hoping to create a self-debugging assistant that learns from my coding patterns!
+# 👋 Hi, I'm Muhammad Yasir
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Eo4JSr4uo/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yasir_buzdar06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@muhammad-yasir-965444379) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@yasir.buzdar36) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:buzdaryasir06@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=buzdaryasir06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=buzdaryasir06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=buzdaryasir06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=buzdaryasir06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=buzdaryasir06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 **Student at University of Loralai**  
+🐍 **Certified Python Developer | AI-Driven Problem Solver**  
+💼 **Open to Internships & Entry-Level Opportunities**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=buzdaryasir06&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+I am a passionate **Python Developer** and university student with a strong interest in building **real-world applications**, **automation solutions**, and **impact-driven software**.
+
+I hold a **Python Certification** and actively use **AI tools and modern workflows** to improve productivity, code quality, and development efficiency. I enjoy learning new technologies, experimenting with ideas, and continuously improving my skills.
+
+---
+
+## 🏅 Certifications
+
+![Python Certification](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🧠 Skills & Technologies
+
+### 🔰 Core Skills
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Real--World-4CAF50?style=for-the-badge)
+![AI Tools](https://img.shields.io/badge/AI_Tools-Productivity-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web_Development-Full--Stack-FF5722?style=for-the-badge&logo=react&logoColor=white)
+
+### 🛠 Languages & Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+---
+
+## 📌 What I’m Focused On
+
+- 🐍 Python Development & Automation  
+- 🤖 AI-assisted development workflows  
+- 🌐 Full-Stack Web Applications  
+- 🚀 Building practical projects with real-world impact  
+
+---
+
+## 📊 GitHub Statistics
+
+![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=buzdaryasir06&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buzdaryasir06&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=buzdaryasir06&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=buzdaryasir06&theme=tokyonight&no-frame=true)
+
+---
+
+## 📂 Featured Projects
+
+⭐ **Life-Flow Blood Donation Platform**  
+⭐ **Shop Management System**  
+⭐ **Python Automation & Practice Projects**
+
+➡️ Explore my repositories to see practical Python and web development work.
+
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-buzdaryasir06-181717?style=for-the-badge&logo=github)](https://github.com/buzdaryasir06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Yasir-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=buzdaryasir06&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+⭐ *I am actively seeking internships and opportunities to grow as a Python developer and contribute to meaningful tech projects.*
