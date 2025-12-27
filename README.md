@@ -10,7 +10,7 @@
 
 I am a passionate **Python Developer** and university student with a strong interest in building **real-world applications**, **automation solutions**, and **impact-driven software**.
 
-I hold a **Python Certification** and actively use **AI tools and modern workflows** to improve productivity, code quality, and development efficiency. I enjoy learning new technologies, experimenting with ideas, and continuously improving my skills.
+I hold a **Python Certification** and actively use **AI tools and modern workflows** to improve productivity, code quality, and development efficiency. I enjoy learning new technologies, experimenting, and contributing to projects.
 
 ---
 
@@ -46,17 +46,20 @@ I hold a **Python Certification** and actively use **AI tools and modern workflo
 - 🐍 Python Development & Automation  
 - 🤖 AI-assisted development workflows  
 - 🌐 Full-Stack Web Applications  
-- 🚀 Building practical projects with real-world impact  
+- 🚀 Building practical projects with real-world impact
 
 ---
 
 ## 📊 GitHub Statistics
 
-![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=buzdaryasir06&show_icons=true&theme=tokyonight)
+<!-- GitHub stats -->
+![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=buzdaryasir06&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buzdaryasir06&layout=compact&theme=tokyonight)
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buzdaryasir06&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=buzdaryasir06&theme=tokyonight)
+<!-- Contribution streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=buzdaryasir06&theme=tokyonight)
 
 ---
 
