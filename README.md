@@ -119,7 +119,7 @@ me.say_hi()
 
 <div align="center">
   
-[![Trophies](https://github-profile-trophy.vercel.app/?username=buzdaryasir06&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/buzdaryasir06)
+<img src="https://github-profile-trophy.vercel.app/?username=buzdaryasir06&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 
 </div>
 
@@ -129,8 +129,12 @@ me.say_hi()
 
 <div align="center">
 
-[![Life-Flow](https://github-readme-stats.vercel.app/api/pin/?username=buzdaryasir06&repo=Life-Flow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/buzdaryasir06/Life-Flow)
-[![Python-Projects](https://github-readme-stats.vercel.app/api/pin/?username=buzdaryasir06&repo=buzdaryasir06&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/buzdaryasir06/buzdaryasir06)
+<a href="https://github.com/buzdaryasir06/Life-Flow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=buzdaryasir06&repo=Life-Flow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Life-Flow"/>
+</a>
+<a href="https://github.com/buzdaryasir06/namaz-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=buzdaryasir06&repo=namaz-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Namaz App"/>
+</a>
 
 <br>
 
@@ -157,7 +161,11 @@ me.say_hi()
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/buzdaryasir06/buzdaryasir06/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
