@@ -6,6 +6,9 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%93+Computer+Science+Student;%F0%9F%90%8D+Certified+Python+Developer;%F0%9F%A4%96+AI-Powered+Problem+Solver;%F0%9F%9A%80+Building+Real-World+Solutions)](https://git.io/typing-svg)
 
+
+
+
 <!-- Social Badges -->
 <p>
 <a href="https://github.com/buzdaryasir06"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
