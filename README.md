@@ -4,10 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Yasir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20|%20AI%20Enthusiast%20|%20Full-Stack%20Builder&descSize=16&descAlignY=52"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%93+Computer+Science+Student;%F0%9F%90%8D+Certified+Python+Developer;%F0%9F%A4%96+AI-Powered+Problem+Solver;%F0%9F%9A%80+Building+Real-World+Solutions)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=130&lines=%F0%9F%8E%93+Computer+Science+Student;%F0%9F%90%8D+Certified+Python+Developer;%F0%9F%A4%96+AI-Powered+Problem+Solver;%F0%9F%9A%80+Building+Real-World+Solutions)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 <p>
