@@ -132,6 +132,10 @@ me.say_hi()
 [![Life-Flow](https://github-readme-stats.vercel.app/api/pin/?username=buzdaryasir06&repo=Life-Flow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/buzdaryasir06/Life-Flow)
 [![Python-Projects](https://github-readme-stats.vercel.app/api/pin/?username=buzdaryasir06&repo=buzdaryasir06&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/buzdaryasir06/buzdaryasir06)
 
+<br>
+
+[![Life-Flow Live Demo](https://img.shields.io/badge/🩸_Life--Flow-Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://life-flow-blood-donation-platform.vercel.app/)
+
 </div>
 
 <details>
