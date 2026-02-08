@@ -132,10 +132,6 @@ me.say_hi()
 <br>
 
 [![Life-Flow Live Demo](https://img.shields.io/badge/🩸_Life--Flow-Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://life-flow-blood-donation-platform.vercel.app/)
-</a>
-<a href="https://github.com/buzdaryasir06/namaz-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=buzdaryasir06&repo=namaz-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Namaz App"/>
-</a>
 
 [![Namaz App Live Demo](https://img.shields.io/badge/🕌_Namaz_App-Live_Demo-6C63FF?style=for-the-badge&logo=netlify&logoColor=white)](https://namztm.netlify.app/)
 
