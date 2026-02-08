@@ -9,7 +9,7 @@
 <!-- Social Badges -->
 <p>
 <a href="https://github.com/buzdaryasir06"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/muhammad-yasir-965444379"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:buzdaryasir06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -129,16 +129,13 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/buzdaryasir06/Life-Flow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=buzdaryasir06&repo=Life-Flow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Life-Flow"/>
+<br>
+
+[![Life-Flow Live Demo](https://img.shields.io/badge/🩸_Life--Flow-Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://life-flow-blood-donation-platform.vercel.app/)
 </a>
 <a href="https://github.com/buzdaryasir06/namaz-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=buzdaryasir06&repo=namaz-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Namaz App"/>
 </a>
-
-<br>
-
-[![Life-Flow Live Demo](https://img.shields.io/badge/🩸_Life--Flow-Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://life-flow-blood-donation-platform.vercel.app/)
 
 </div>
 
