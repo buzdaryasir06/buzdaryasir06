@@ -95,28 +95,18 @@ me.say_hi()
 
 <div align="center">
   
-<img width="49%" src="https://stats.hyoban.cc/api?username=buzdaryasir06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=buzdaryasir06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=buzdaryasir06&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
   
-<img width="38%" src="https://stats.hyoban.cc/api/top-langs/?username=buzdaryasir06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buzdaryasir06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages"/>
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://medal.ctrlcv.in/?username=buzdaryasir06&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 🌟 Featured Projects
 
