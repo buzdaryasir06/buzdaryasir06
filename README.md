@@ -65,6 +65,12 @@ I focus on writing clean, maintainable code and continuously expanding my skill 
 
 </div>
 
+---
+
+## Featured Projects
+
+<div align="center">
+
 ### 🤖 AI Job Application Assistant
 
 An AI-powered tool that analyzes job descriptions, scores resume compatibility, and generates tailored application content using LLM integration.
@@ -74,10 +80,6 @@ An AI-powered tool that analyzes job descriptions, scores resume compatibility, 
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzdaryasir06)
 
 ---
-
-## Featured Projects
-
-<div align="center">
 
 ### 🩸 Life-Flow — Blood Donation Platform
 
