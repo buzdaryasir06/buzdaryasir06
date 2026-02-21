@@ -65,6 +65,13 @@ I focus on writing clean, maintainable code and continuously expanding my skill 
 
 </div>
 
+### 🤖 AI Job Application Assistant
+
+An AI-powered tool that analyzes job descriptions, scores resume compatibility, and generates tailored application content using LLM integration.
+
+**Built with:** `Python` `Flask` `OpenAI API` `Chrome Extension`
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzdaryasir06)
 ---
 
 ## Featured Projects
@@ -102,15 +109,6 @@ A desktop inventory and sales management system with transaction tracking, stock
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzdaryasir06)
 
 ---
-
-### 🤖 AI Job Application Assistant
-
-An AI-powered tool that analyzes job descriptions, scores resume compatibility, and generates tailored application content using LLM integration.
-
-**Built with:** `Python` `Flask` `OpenAI API` `Chrome Extension`
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzdaryasir06)
-
 </div>
 
 ---
