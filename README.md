@@ -72,6 +72,7 @@ An AI-powered tool that analyzes job descriptions, scores resume compatibility, 
 **Built with:** `Python` `Flask` `OpenAI API` `Chrome Extension`
 
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzdaryasir06)
+
 ---
 
 ## Featured Projects
