@@ -126,9 +126,13 @@ A desktop inventory and sales management system with transaction tracking, stock
 
 <div align="center">
 
-![Python Certified](https://img.shields.io/badge/✓_Python-Certified_Developer-3776AB?style=flat-square&logo=python&logoColor=white)
-![Full Stack](https://img.shields.io/badge/✓_Full_Stack-Web_Developer-1f6feb?style=flat-square&logo=react&logoColor=white)
-![AI Tools](https://img.shields.io/badge/✓_AI_Tools-Proficient-412991?style=flat-square&logo=openai&logoColor=white)
+| # | Certification | Issuer | Platform | Date | Credential |
+|:-:|:-------------|:------:|:--------:|:----:|:----------:|
+| 🏅 | **Crash Course on Python** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | Dec 2025 | [Verify →](https://coursera.org/verify/EU5C1EGF1ACF) |
+| 🏅 | **Introduction to Git and GitHub** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | Dec 2025 | [Verify →](https://coursera.org/verify/OAEH5MD5T298) |
+| 🏅 | **Use AI as a Creative or Expert Partner** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | Nov 2025 | [Verify →](https://coursera.org/verify/MD8D2BORZM9D) |
+| 🏅 | **Design Prompts for Everyday Work Tasks** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | Nov 2025 | [Verify →](https://coursera.org/verify/WR3Q4R4OA5NM) |
+| 🏅 | **Start Writing Prompts like a Pro** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | Nov 2025 | [Verify →](https://coursera.org/verify/A75M08FCMWF0) |
 
 </div>
 
