@@ -114,7 +114,7 @@ A desktop inventory and sales management system with transaction tracking, stock
 
 **Built with:** `Python` `SQLite` `Tkinter`
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzdaryasir06)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzdaryasir06/shop-mangment-system.git)
 
 ---
 </div>
