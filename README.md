@@ -83,7 +83,7 @@ An AI-powered tool that analyzes job descriptions, scores resume compatibility, 
 
 **Built with:** `Python` `Flask` `OpenAI API` `Chrome Extension`
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzdaryasir06)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzdaryasir06/linkedin-ai-copilot.git)
 
 ---
 
@@ -94,7 +94,6 @@ A full-stack web platform connecting blood donors with seekers through intellige
 **Built with:** `Django` `Python` `JavaScript` `SQLite` `HTML/CSS`
 
 [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-1f6feb?style=flat-square&logo=vercel&logoColor=white)](https://life-flow-blood-donation-platform.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzdaryasir06/Life-Flow-Blood-Donation-Platform)
 
 ---
 
