@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a **Computer Science student** at the University of Loralai and a **certified Python developer** passionate about building impactful software. I specialize in **Python development**, **full-stack web applications**, and **AI-powered tools** — turning ideas into real-world solutions that solve genuine problems.
+I'm a **Computer Science student** at the University of Loralai and a **Python developer** passionate about building impactful software. I specialize in **Python development**, **full-stack web applications**, and **AI-powered tools** — turning ideas into real-world solutions that solve genuine problems.
 
 I focus on writing clean, maintainable code and continuously expanding my skill set across modern development practices. Currently seeking **internship and entry-level opportunities** where I can contribute, learn, and grow.
 
