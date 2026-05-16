@@ -57,39 +57,29 @@ A production Chrome Extension that brings AI-powered intelligence directly into 
 ## 🛠 Other Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🩸 [Life-Flow](https://life-flow-blood-donation-platform.vercel.app/)
-**Blood Donation Platform**
-
-Full-stack web platform connecting blood donors with seekers through location-based matching. Built end-to-end — from DB schema to deployed frontend.
-
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092e20)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003b57)
-
-[![Live](https://img.shields.io/badge/Live-Demo-58a6ff?style=flat-square)](https://life-flow-blood-donation-platform.vercel.app/)
-
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏪 [Shop Manager Pro](https://github.com/buzdaryasir06/shop-mangment-system)
-**Desktop Inventory & Sales System**
-
-Offline-first desktop app for inventory and sales management. Built with Python and Tkinter — no dependencies, runs anywhere.
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003b57)
-![Tkinter](https://img.shields.io/badge/Tkinter-0d1117?style=flat-square&logo=python&logoColor=3776ab)
-
-[![Source](https://img.shields.io/badge/GitHub-Source-21262d?style=flat-square&logo=github)](https://github.com/buzdaryasir06/shop-mangment-system)
-
-</td>
-<td width="50%" valign="top"></td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩸 <a href="https://life-flow-blood-donation-platform.vercel.app/">Life-Flow</a></h3>
+      <p><strong>Blood Donation Platform</strong></p>
+      <p>Full-stack web platform connecting blood donors with seekers through location-based matching. Built end-to-end — from DB schema to deployed frontend.</p>
+      <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092e20" alt="Django" />
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003b57" alt="SQLite" />
+      <br /><br />
+      <a href="https://life-flow-blood-donation-platform.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-58a6ff?style=flat-square" alt="Live Demo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏪 <a href="https://github.com/buzdaryasir06/shop-mangment-system">Shop Manager Pro</a></h3>
+      <p><strong>Desktop Inventory & Sales System</strong></p>
+      <p>Offline-first desktop app for inventory and sales management. Built with Python and Tkinter — no dependencies, runs anywhere.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
+      <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003b57" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Tkinter-0d1117?style=flat-square&logo=python&logoColor=3776ab" alt="Tkinter" />
+      <br /><br />
+      <a href="https://github.com/buzdaryasir06/shop-mangment-system"><img src="https://img.shields.io/badge/GitHub-Source-21262d?style=flat-square&logo=github" alt="GitHub Source" /></a>
+    </td>
+  </tr>
 </table>
 
 ---
