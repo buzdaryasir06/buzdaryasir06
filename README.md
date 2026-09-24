@@ -171,11 +171,11 @@ The official web portal for the University of Loralai, approved by university le
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=buzdaryasir06&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=buzdaryasir06&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
   <img height="165" src="https://streak-stats.demolab.com/?user=buzdaryasir06&hide_border=true&background=0d1117&stroke=21262d&ring=1f6feb&fire=f85149&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buzdaryasir06&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=buzdaryasir06&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 
 ---
