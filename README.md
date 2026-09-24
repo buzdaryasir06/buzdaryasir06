@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+products+that+ship+to+real+users.;CS+student+from+Balochistan%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;FastAPI+%C2%B7+React+%C2%B7+LLMs+%C2%B7+Chrome+Extensions;Open+to+remote+%2F+contract+%2F+full-time+roles." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+products+%26+production+web+apps.;CS+student+from+Balochistan%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;React+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+Tailwind+%C2%B7+LLMs;Open+to+remote+%2F+contract+%2F+full-time+roles." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,15 +19,15 @@
 
 ## 👋 About Me
 
-CS student from Balochistan, Pakistan — currently in my 6th semester at the University of Loralai. I've shipped a production AI Chrome extension used by real people on LinkedIn, built on FastAPI, Groq/Llama 3, and Chrome MV3. I don't just use AI tools — I build with them: automating real workflows, integrating LLMs into full-stack products, and deploying to production. Currently open to full-time, remote, and contract opportunities in AI engineering or full-stack development.
+Computer Science student and developer from Balochistan, Pakistan, focused on building AI-powered products and production web applications. I built and deployed **LinkPilot AI Pro** (a production AI Chrome extension used by real professionals) and recently designed and developed the official **University of Loralai website** ([uoli.edu.pk](https://uoli.edu.pk/)) during my Web Developer Internship with the Directorate of IT. I bridge AI engineering and full-stack web development to ship clean, fast, and real-world software. Currently open to full-time, remote, and contract opportunities.
 
 ---
 
-## 🚀 Flagship Project
+## 🚀 Featured Projects
 
 ### [LinkPilot AI Pro](https://linkpilotai.tech) — AI Copilot for LinkedIn
 
-> **Cuts job evaluation time from 45 minutes to under 10 — 78% faster.**
+> **Flagship AI Product** · *Cuts job evaluation time from 45 minutes to under 10 — 78% faster.*
 
 A production Chrome Extension that brings AI-powered intelligence directly into your LinkedIn feed. Not a side project — live on the Chrome Web Store, used by real professionals.
 
@@ -51,6 +51,32 @@ A production Chrome Extension that brings AI-powered intelligence directly into 
 [![Live Site](https://img.shields.io/badge/Website-linkpilotai.tech-58a6ff?style=flat-square&logo=vercel)](https://linkpilotai.tech)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285f4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/search/LinkPilot%20AI%20Pro)
 [![Source](https://img.shields.io/badge/GitHub-Source%20Code-21262d?style=flat-square&logo=github)](https://github.com/buzdaryasir06/linkedin-ai-copilot)
+
+---
+
+### 🏛️ [University of Loralai — Official University Website](https://uoli.edu.pk/)
+
+> **Production Institutional Website · Design & Development**
+
+The official web portal for the University of Loralai, approved by university leadership and live on the official `.edu.pk` domain. Designed and developed during my Web Developer Internship with the Directorate of IT.
+
+| Feature | Details |
+|---|---|
+| 🏛️ Institutional Portal | Complete digital gateway for academic departments, degree programs, admissions, and administration |
+| 🤖 AI Assistant / Chatbot | Embedded intelligent assistant to help students and visitors instantly navigate university info |
+| 📱 Responsive Experience | Modern, mobile-first interface optimized for desktop, tablet, and mobile users |
+| ⚡ Performance Focused | Fast load times and accessible UX optimized for users with slower internet connections |
+| 🏢 Directorate of IT | Developed and deployed in production as an official Directorate of IT project |
+
+**Stack:**
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646cff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
+
+**Links:**
+[![Live Website](https://img.shields.io/badge/Live%20Website-uoli.edu.pk-58a6ff?style=flat-square&logo=googlechrome&logoColor=white)](https://uoli.edu.pk/)
 
 ---
 
@@ -89,6 +115,7 @@ A production Chrome Extension that brings AI-powered intelligence directly into 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)
@@ -105,6 +132,8 @@ A production Chrome Extension that brings AI-powered intelligence directly into 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646cff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952b3)
 ![Chrome MV3](https://img.shields.io/badge/Chrome%20Extension%20MV3-0d1117?style=flat-square&logo=googlechrome&logoColor=4285f4)
 
